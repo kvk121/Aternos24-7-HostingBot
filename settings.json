@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "csvoda1.aternos.me",
+    "ip": "csvoda1.aternos.me:13791",
     "port": 13791,
     "version": "",
     "try-creative": true
